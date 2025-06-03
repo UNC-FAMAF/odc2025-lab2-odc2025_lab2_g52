@@ -6,7 +6,7 @@
 .equ ROJO,             0xD02239
 .equ CREMA,            0xFEE0A9
 .equ BEIGE,            0xE0AE7B
-.equ MARRON,           0x713A1B
+.equ MARRON,           0x551d17
 .equ MARRON_CLARO,     0xA25A05
 .equ AMARILLO,         0xF9CF3E
 .equ AMARILLO_OSCURO,  0xE2A941
